@@ -5,3 +5,4 @@ Ideias para a lojinha do nosso site
 3. Camisetas TechLadies.
 4. Moletom TechLadies.
 5. Canecas de café personalizadas.
+6. Bottons das TechLadies e msgs de empoderamento.
