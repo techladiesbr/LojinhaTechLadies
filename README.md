@@ -7,4 +7,3 @@ Ideias para a lojinha do nosso site
 5.  Bottons das TechLadies e msgs de empoderamento.
 6. Canetas personalizadas.
 7.  Agendas personalizadas.
-8.
